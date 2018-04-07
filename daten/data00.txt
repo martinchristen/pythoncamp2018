@@ -1,0 +1,10 @@
+Volksrepublik China;1365
+Indien;1277
+Vereinigte Staaten;320
+Indonesien;249
+Brasilien;196
+Pakistan;191
+Nigeria;174
+Bangladesch;157
+Russland;144
+Japan;127
